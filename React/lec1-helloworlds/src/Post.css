@@ -1,0 +1,24 @@
+.post-black{
+    background: black;
+    color: white;
+}
+
+.post-crimson{
+    background: crimson;
+    color: white;
+}
+
+
+.post-green{
+    background: darkgreen;
+    color: white;
+}
+
+.post{
+    height:250px;
+}
+
+.posts-container{
+    width:500px;
+    margin: 0 auto;
+}
